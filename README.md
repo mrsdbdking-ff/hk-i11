@@ -1,5 +1,5 @@
 ```
-git clone https://github.com/gamerzhacker1/lpnodes
+git clone https://github.com/mrsdbdking-ff/lpnodes
 ```
 
 ```
